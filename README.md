@@ -4,7 +4,7 @@ Push-to-talk voice dictation for Linux using [`whisper.cpp`](https://github.com/
 
 Bind this script to a keyboard shortcut. Toggle on, speak, toggle off, and watch as whisper transcribes your words into wherever your text cursor is focused. Works on any text input: terminal, web input, address bar etc. If you can type it, you can `ptt-dictate`.
 
-[![Watch the demo](https://img.youtube.com/vi/nP9AL1IHtoM/0.jpg)](https://www.youtube.com/watch?v=nP9AL1IHtoM)
+https://github.com/user-attachments/assets/50733c7b-3f7c-47de-810d-cec5ee22c4e0
 
 ## Setup
 
